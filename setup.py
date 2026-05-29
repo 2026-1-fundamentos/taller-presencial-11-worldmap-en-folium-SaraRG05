@@ -8,8 +8,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "pytest",
-        "matplotlib",
         "pandas",
-        "folium",
+        "ipykernel",
     ],
 )
